@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T03:24:41.515Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="kBcM-9ZJG_fSfaO4hH3q" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-02T03:28:34.885Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="HgOLN0xqRxlMXE5ikfJA" version="14.8.3" type="github">
   <diagram name="Page-1" id="aaaa8250-4180-3840-79b5-4cada1eebb92">
     <mxGraphModel dx="1892" dy="1292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JwNSlMBxFUs_ktbdsOI0-28" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.flatDoubleEdge;fillColor=#000000;aspect=fixed;fontSize=30;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="370" y="921.26" width="612.22" height="348.74" as="geometry" />
-        </mxCell>
         <mxCell id="JwNSlMBxFUs_ktbdsOI0-27" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.flatDoubleEdge;fillColor=#000000;aspect=fixed;fontSize=30;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="980" y="507.09" width="672.22" height="382.91" as="geometry" />
         </mxCell>
@@ -26,7 +23,7 @@
           <mxGeometry x="880" y="800" width="123" height="124" as="geometry" />
         </mxCell>
         <mxCell id="JwNSlMBxFUs_ktbdsOI0-21" value="Nginx" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.customerGateway;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;fontSize=30;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="490" y="469" width="183.67" height="161.8" as="geometry" />
+          <mxGeometry x="410" y="469" width="183.67" height="161.8" as="geometry" />
         </mxCell>
         <mxCell id="d5ac148becb70bc-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.dashedArrowlessEdge;aspect=fixed;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;direction=east;" parent="1" vertex="1">
           <mxGeometry x="1764.5" y="850" width="333.44" height="190" as="geometry" />
@@ -52,14 +49,20 @@
         <mxCell id="JwNSlMBxFUs_ktbdsOI0-22" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dashedArrowlessEdge;fillColor=#000000;aspect=fixed;fontSize=30;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="780" y="1420" width="333.54" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="JwNSlMBxFUs_ktbdsOI0-24" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dataCenter;strokeColor=#5E5E5E;aspect=fixed;fontSize=30;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="JwNSlMBxFUs_ktbdsOI0-24" value="模型转换服务" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dataCenter;strokeColor=#5E5E5E;aspect=fixed;fontSize=30;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="520" y="930" width="166.31" height="192" as="geometry" />
         </mxCell>
         <mxCell id="JwNSlMBxFUs_ktbdsOI0-25" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.worker;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;fontSize=30;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="550.62" y="939.5" width="105.08" height="71" as="geometry" />
         </mxCell>
         <mxCell id="JwNSlMBxFUs_ktbdsOI0-29" value="BIM轻量化平台" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.cloudfront;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;fontSize=30;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="1270" width="134.36" height="219.8" as="geometry" />
+          <mxGeometry x="1054.64" y="1230" width="134.36" height="219.8" as="geometry" />
+        </mxCell>
+        <mxCell id="JwNSlMBxFUs_ktbdsOI0-30" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=3;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowSW;fillColor=#000000;aspect=fixed;fontSize=30;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="710" y="900" width="162.31" height="92.75" as="geometry" />
+        </mxCell>
+        <mxCell id="JwNSlMBxFUs_ktbdsOI0-31" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=3;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowSE;fillColor=#000000;aspect=fixed;fontSize=30;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="668.41" y="1110" width="367.49" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
